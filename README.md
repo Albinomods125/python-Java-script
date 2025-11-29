@@ -1,8 +1,17 @@
-# python-Java-script
-Aqui terá um tipo de.exercios de JS e PY
+# 🚀 JavaScript & Node.js - Readme Completo
 
-# o que vai ser feito aqui 
-Aprenderá o básico de cada linguagem 
+Repositório com **exercícios práticos de JavaScript e Node.js** do básico ao avançado.
 
-# Suporte no WhatsApp 
-https://wa.me//5527998158753
+## 📋 Conteúdo
+
+- **JavaScript**: Variáveis, funções, arrays, objetos, DOM
+- **Node.js**: Módulos, filesystem, servidores HTTP, APIs REST
+- **Projetos**: Calculadora CLI, API de tarefas, servidor web
+
+## 🛠️ Pré-requisitos
+
+- Node.js 18+ instalado
+- Editor de código (VS Code recomendado)
+- Terminal/Git
+
+## 🚀 Como usar
