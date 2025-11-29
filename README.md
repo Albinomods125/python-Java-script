@@ -1,5 +1,6 @@
 # Curso de JavaScript 
 _By albino Modz && tiu albino
+
 Este mini curso ensina conceitos importantes de JavaScript de forma prática,
 incluindo módulos, funções avançadas, retry assíncrono, closures e criação
 de um site simples usando Express.js.
