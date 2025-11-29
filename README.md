@@ -1,17 +1,1 @@
-# 🚀 JavaScript & Node.js - Readme Completo
-
-Repositório com **exercícios práticos de JavaScript e Node.js** do básico ao avançado.
-
-## 📋 Conteúdo
-
-- **JavaScript**: Variáveis, funções, arrays, objetos, DOM
-- **Node.js**: Módulos, filesystem, servidores HTTP, APIs REST
-- **Projetos**: Calculadora CLI, API de tarefas, servidor web
-
-## 🛠️ Pré-requisitos
-
-- Node.js 18+ instalado
-- Editor de código (VS Code recomendado)
-- Terminal/Git
-
-## 🚀 Como usar
+#JavaScript&Node.js-ExercíciosPráticos|Repositório com exercícios fundamentais de JavaScript e Node.js. Todos os arquivos estão organizados na raiz do projeto para facilitar o aprendizado e execução.|Estrutura do Projeto:javascript-nodejs/├──README.md├──package.json├──.gitignore├──index.js├──exercicio-01-variaveis.js├──exercicio-02-condicionais.js├──exercicio-03-loops.js├──exercicio-04-funcoes.js├──calculadora-cli.js└──servidor-simples.js|Conteúdo dos Exercícios:|Arquivo|Conceitos Demonstrados|exercicio-01-variaveis.js|let, const, var, template literals, operações matemáticas|exercicio-02-condicionais.js|if/else if/else, switch/case, operadores lógicos|exercicio-03-loops.js|for, while, forEach, manipulação de arrays|exercicio-04-funcoes.js|funções tradicionais, arrow functions, callbacks|calculadora-cli.js|readline, tratamento de entrada/saída, validação|servidor-simples.js|módulo http, rotas, respostas HTTP, status 404|Pré-requisitos:-Node.jsversão18ousuperior-npm(editorVSCode)|Instalação:gitclone<repository-url>;cdjavascript-nodejs;npminstall|Scripts:npmstart(Menuprincipal);nprunexercicio1(Variáveis);npmrunexercicio2(Condicionais);npmrunexercicio3(Loops);npmrunexercicio4(Funções);npmruncalculadora(CalculadoraCLI);npmrunservidor(ServidorHTTPporta3000)|ExemplodeExecução(Exercício1):Exercício01:VariáveiseTiposdeDados|Dadosdapessoa:Nome:MariaSilvaIdade:28anosSalário:R$2500.50Altura:1.65m|Operaçõesmatemáticas:15+7=2215-7=815*7=10515/7=2.14|ServidorHTTP:http://localhost:3000/|/-(páginainicial);/sobre-(páginasobre)|package.json:{"name":"javascript-nodejs-exercicios","version":"1.0.0","description":"ExercíciospráticosdeJavaScripteNode.js","scripts":{"start":"nodeindex.js","exercicio1":"nodeexercicio-01-variaveis.js",...},"devDependencies":{"nodemon":"^3.0.1"}}|.gitignore:node_modules/.DS_Storeenv*.log|Suporte:WhatsApp:https://wa.me/5527998158753|Licença:MIT[web:134][web:135]
